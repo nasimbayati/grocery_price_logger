@@ -1,5 +1,0 @@
-apples, Price: 4.5$ per pound
-flour, Price: 6.3$ per pound
-oranges, Price: 5.2$ per pound
-watermelon, Price: 3.4$ per pound
-banana, Price: 2.68$ per pound
